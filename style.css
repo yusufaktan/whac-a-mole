@@ -1,0 +1,50 @@
+body {
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+}
+
+#baslik {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: darkred;
+}
+
+.btn {
+    width: 150px;
+    height: 150px;
+}
+
+#temizle {
+    clear: both
+}
+
+#bilgi {
+    font-family: Tahoma;
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 610px;
+    height: 40px;
+    margin-left: 33%;
+}
+
+.dogru {
+    color: white;
+    background-color: green;
+}
+
+.yanlis {
+    color: white;
+    background-color: darkred;
+}
+
+table {
+    cursor: url(cursor/glove.cur), auto;
+    margin-left: 33%;
+}
